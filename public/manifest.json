@@ -1,0 +1,21 @@
+{
+  "name": "Color Visualization Tool",
+  "short_name": "Color Visualization Tool",
+  "description": "A real-time color behavior playground for testing UI elements.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#6366f1",
+  "icons": [
+    {
+      "src": "https://picsum.photos/seed/chromaui/192/192",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://picsum.photos/seed/chromaui/512/512",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

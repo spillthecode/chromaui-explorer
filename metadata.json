@@ -1,0 +1,5 @@
+{
+  "name": "Color Visualization Tool",
+  "description": "A real-time color behavior playground for testing UI elements like buttons, navbars, and cards with custom color palettes.",
+  "requestFramePermissions": []
+}
